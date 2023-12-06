@@ -7,7 +7,7 @@ Steps to run website on your Local System
 
 Step 1 : clone repo by command:
 
-git clone https://github.com/Prasugupta21/BlogApp.git
+git clone
 
 Step 2 : navigate to project directory and write command in command line npm install
 
